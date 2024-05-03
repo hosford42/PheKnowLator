@@ -17,4 +17,4 @@ rdflib==4.2.2
 reactome2py==0.0.8
 requests
 responses~=0.10.12
-tqdm==4.47.0
+tqdm==4.66.3
